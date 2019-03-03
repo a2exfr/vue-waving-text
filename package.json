@@ -1,13 +1,13 @@
 {
    "name": "vue-waving-text",
    "version": "0.1.0",
-   "private": true,
+   "private": false,
+   "main": "dist/vue-waving-text.common.js",
    "scripts": {
 	  "serve": "vue-cli-service serve",
 	  "build": "vue-cli-service build",
 	  "build-bundle": "vue-cli-service build --target lib --name vue-waving-text ./src/components/index.js",
-	  "lint": "vue-cli-service lint",
-	  "main": "dist/vue-waving-text.common.js"
+	  "lint": "vue-cli-service lint"
    },
    "dependencies": {
 	  "vue": "^2.6.6"
