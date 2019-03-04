@@ -34,5 +34,11 @@
 	  "public/*",
 	  "*.json",
 	  "*.js"
+   ],
+   "keywords": [
+	  "vue",
+	  "wave",
+	  "waves",
+	  "text"
    ]
 }
